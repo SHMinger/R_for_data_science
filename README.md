@@ -1,6 +1,4 @@
-[toc]
-
-
+<img src="http://www.shminger.cn:3380/images/2024/04/21/202404211306819.png" style="zoom:25%;" />
 
 # R数据科学
 
@@ -22,8 +20,8 @@ options(tidyverse.quiet = TRUE)
 
 <table>
 	<tr>
-    <td><img src="/Users/hushuming/Pictures/Screencut/R Data Science/Fig.1-2 mpg.png" alt="Fig.0.1.2" style="zoom:50%;" />
-      <center>Fig.1.8.2</center></td>
+    <td><img src="http://www.shminger.cn:3380/images/2024/04/21/Fig.1-2-mpg.png" alt="Fig.0.1.2" style="zoom:50%;" />
+      <center>Fig.0.1.2</center></td>
   </tr>
 </table>
 
@@ -807,4 +805,3 @@ not_cancelled %>%
       <center>Fig.3.6.4</center></td>
   </tr>
 </table>
-
